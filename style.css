@@ -1,0 +1,43 @@
+html, body {
+    background-color: #202228;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+.center_box {
+    width: 45vw;
+    height: 50vh;
+    background-color: #343843;
+    border-radius: 3vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.password {
+    width: 30vw;
+    height: 5vh;
+    border-radius: 1vh;
+    background-color: #74777d;
+    border : none;
+    color: #f1e9e9;
+    font-size: 2vh;
+    text-align: center;
+}
+
+.password::placeholder{
+    color: #d9caca;
+}
