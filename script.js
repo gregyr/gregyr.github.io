@@ -6,7 +6,20 @@ let numberString = '1234567890'
 let numbers = true
 let specialCharString = '!.?_=+*-#:;,'
 let specialCharacters = true
-let length = 20
+
+const slider = document.getElementById("slider");
+const lengthDisplay = document.getElementById("length");
+
+slider.min = 5; 
+slider.max = 40;     
+slider.value = 22;   
+lengthDisplay.textContent = "Length : " + slider.value;
+
+slider.addEventListener("input", () => {
+  lengthDisplay.textContent = "Length : " + slider.value;
+});
+
+
 
 function generatePassword(length){
     let password = ''
@@ -17,3 +30,4 @@ function generatePassword(length){
     }
     return password
 }
+
