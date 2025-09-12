@@ -1,0 +1,42 @@
+html, body {
+    background-color: #e8e6e0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.choice_box{
+    height: 90vh;
+    width: 45vw;
+    margin: 5vh;
+    background-color: #ffffff;
+    transition-duration: 300ms;
+    box-shadow: 0 0 2vw #d6d0c6;
+    border-radius: 5vh;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+}
+
+.choice_box img {
+    flex-shrink: 1;
+    min-width: 25vw;
+    min-height: 25vh;
+    border-radius: 1vh;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+}
+
+
+.choice_box:hover {
+    scale : 1.02
+}
+
+.choice_box:active {
+    scale : 1.01
+}
