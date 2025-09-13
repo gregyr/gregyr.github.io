@@ -20,6 +20,11 @@
         "img": "https://i.otto.de/i/otto/f7ab0781-c980-41c1-8c8e-c940aeee42a6?$responsive_ft2$"
     },
     {
+        "name": "MegaDeal Multimedia-PC-Set PC-Komplettsystem",
+        "price": "579.00",
+        "img": "https://i.otto.de/i/otto/5f47039c-9e63-5311-b7bd-9033724cba0f?$responsive_ft2$"
+    },
+    {
         "name": "4K HD 10,26'' Dashcam DVR Kabelloses Apple Carplay & Android Auto Navigationsgerät (Tragbar Autoradio Rückfahrkamera IPS Touchscreen GPS Navi FM AUX)",
         "price": "104.99",
         "img": "https://i.otto.de/i/otto/bbaab9eb-471a-490e-b792-2cf56c65127b?$responsive_ft2$"
@@ -30,14 +35,19 @@
         "img": "https://i.otto.de/i/otto/f8845769-7912-5fe5-aaef-3260ad828b60?$responsive_ft2$"
     },
     {
-        "name": "LEDA24OSBT LED-Fernseher",
-        "price": "395.00",
-        "img": "https://i.otto.de/i/otto/75a4d7fb-453c-4573-a89a-4574a41d8093?$responsive_ft2$"
+        "name": "7-Zoll CarPlay Display Kabelloses Apple Carplay & Android Auto Navigationsgerät (Autoradio Bluetooth Sprachsteuerung)",
+        "price": "69.99",
+        "img": "https://i.otto.de/i/otto/0895c2f6-27e4-45bd-a055-5c9b0f9a87f3?$responsive_ft2$"
     },
     {
-        "name": "Kabelloses Apple Carplay & Android Auto, 7-Zoll CarPlay Display Navigationsgerät (Autoradio Bluetooth Sprachsteuerung)",
-        "price": "69.99",
-        "img": "https://i.otto.de/i/otto/e452e1e1-955a-455d-93b0-aab25590ebfd?$responsive_ft2$"
+        "name": "EVE Damen Smartwatch, extraflach, Sprachsteuerung, AMOLED Always-On Smartwatch",
+        "price": "89.90",
+        "img": "https://i.otto.de/i/otto/7cc6f611-b5f2-4c5d-bed3-dbfba42dd147?$responsive_ft2$"
+    },
+    {
+        "name": "2-Sitzer TOURNAY, 2er-Kinosofa, Liegesofa, TV-Sessel, Multimedia-Sofa, mit manueller Relaxfunktion, Getränkehalter, Staufach",
+        "price": "499.99",
+        "img": "https://i.otto.de/i/otto/89310b49-86a9-52cf-b200-42420c7736ec?$responsive_ft2$"
     },
     {
         "name": "7\" Wireless Carplay Android Auto Bluetooth USB AUX Doppel 2 DIN Autoradio",
@@ -50,19 +60,9 @@
         "img": "https://i.otto.de/i/otto/c15fbb5b-1661-5d8a-b5ca-410cf79294b6?$responsive_ft2$"
     },
     {
-        "name": "Streaming-Stick Mortal Q8 Heimkino Media Player TV Stick Android 14.0 Streaming, Quad-Core-Prozessor, 4K UHD, WiFi 6, 16 GB Speicher",
-        "price": "34.99",
-        "img": "https://i.otto.de/i/otto/8457b009-0755-4fc9-b166-1dbb719f99ee?$responsive_ft2$"
-    },
-    {
-        "name": "Watch GT5 PRO 46MM (Vili-B29M) Smartwatch",
-        "price": "329.00",
-        "img": "https://i.otto.de/i/otto/6282c00f-8ae8-5ddd-a275-b6da98227d8d?$responsive_ft2$"
-    },
-    {
-        "name": "Galaxy Buds3 Pro SM-R630 wireless In-Ear-Kopfhörer",
-        "price": "139.99",
-        "img": "https://i.otto.de/i/otto/fc0d3332-89af-5b72-9ff4-34db8bfee018?$responsive_ft2$"
+        "name": "Streaming-Box GD2 TV-Box, 4K HDR mit Google TV, LAN, USB & Dolby Atmos, Für Netflix, Prime Video, Disney+, YouTube, RTL+ & tausende Apps",
+        "price": "69.99",
+        "img": "https://i.otto.de/i/otto/90c49570-9280-40ac-95d9-892796b71b7f?$responsive_ft2$"
     },
     {
         "name": "7\" Doppel 2 DIN Autoradio Stereo Bluetooth FM USB AUX MP5 MP3 Player Autoradio",
@@ -70,29 +70,19 @@
         "img": "https://i.otto.de/i/otto/33d7d31a-372e-4387-9de7-c6a4a7e105f0?$responsive_ft2$"
     },
     {
-        "name": "AirPods Max Over-Ear-Kopfhörer",
-        "price": "524.32",
-        "img": "https://i.otto.de/i/otto/0157529c-7e97-5e87-bba7-dac145a03982?$responsive_ft2$"
+        "name": "11,3\" Tragbares 4K Android Auto Touchscreen kabellos BT CarPlay Radio",
+        "price": "129.99",
+        "img": "https://i.otto.de/i/otto/7f0ea177-520a-44bd-a4e4-91d5f43d0b3d?$responsive_ft2$"
     },
     {
-        "name": "Tonies Toniebox Starterset Lautsprecher",
-        "price": "74.99",
-        "img": "https://i.otto.de/i/otto/e7c1cc9c-babe-5b03-902a-1ea3add410c0?$responsive_ft2$"
+        "name": "Watch GT5 PRO 46MM (Vili-B29M) Smartwatch",
+        "price": "329.00",
+        "img": "https://i.otto.de/i/otto/6282c00f-8ae8-5ddd-a275-b6da98227d8d?$responsive_ft2$"
     },
     {
-        "name": "Galaxy Watch 7 Smartwatch",
-        "price": "205.38",
-        "img": "https://i.otto.de/i/otto/b14bb75e-75e3-5b07-a06d-501fd5d1ebe4?$responsive_ft2$"
-    },
-    {
-        "name": "Android 15 Wireless Carplay 2 DIN Navi 10.1 Zoll Touch Bluetooth WiFi Autoradio",
-        "price": "159.99",
-        "img": "https://i.otto.de/i/otto/22476202-40f3-4866-827b-6efc5ae6570b?$responsive_ft2$"
-    },
-    {
-        "name": "10.1 Zoll Android Stereoton 2 DIN Stereo GPS mit AHD Rückfahrkamera Autoradio",
-        "price": "199.99",
-        "img": "https://i.otto.de/i/otto/c7c15a9e-fd30-4aca-91f9-9519e4cb98cd?$responsive_ft2$"
+        "name": "Kreativset 145-teiliger Einhorn Kunstkoffer für Kinder mit Zeichen und Malutensil, (Spar-Set)",
+        "price": "29.99",
+        "img": "https://i.otto.de/i/otto/7abdf151-4661-5174-b5aa-914acd8a58b4?$responsive_ft2$"
     },
     {
         "name": "10,26\" IPS-Touchscreen Digitaler Medienempfänger Wireless Carplay/Auto Navigationsgerät (weltweit, Bluetooth/Airplay/Spiegelverbindung/SD/TF)",
@@ -100,34 +90,49 @@
         "img": "https://i.otto.de/i/otto/387ed76a-6088-4fca-8098-46e81f617da4?$responsive_ft2$"
     },
     {
-        "name": "GRAVITY LT RGB Subwoofer System aus Holz mit Bluetooth 2.1 Soundsystem 2.1 (40 W RMS, 80 W Spitzenleistung, 3,5mm Klinke, RGB-Tischfernbedienung)",
-        "price": "59.99",
-        "img": "https://i.otto.de/i/otto/32d3e2c6-4a2b-5ae2-946f-026b0b1fe694?$responsive_ft2$"
+        "name": "HIGH Tablet 12 Zoll, 2560 x 1600 Pixel, 256GB, WLAN+LTE Premium Tablet",
+        "price": "224.90",
+        "img": "https://i.otto.de/i/otto/a8647675-8d47-405d-a94a-c8d2b3971a39?$responsive_ft2$"
     },
     {
-        "name": "XBOOM RNC7 Party-Lautsprecher",
+        "name": "Kopfhörer, TWS In-Ear-Kopfhörer,Bluetooth 5.3,HiFi Stereo In-Ear-Kopfhörer",
+        "price": "9.99",
+        "img": "https://i.otto.de/i/otto/ecebe80b-176a-4c17-8a3b-e49079789416?$responsive_ft2$"
+    },
+    {
+        "name": "ULT Wear Kopfhörer",
+        "price": "123.71",
+        "img": "https://i.otto.de/i/otto/f1d214ec-44f1-58f7-8e14-84f1191e6fa4?$responsive_ft2$"
+    },
+    {
+        "name": "AirPods Max Over-Ear-Kopfhörer",
+        "price": "524.32",
+        "img": "https://i.otto.de/i/otto/0157529c-7e97-5e87-bba7-dac145a03982?$responsive_ft2$"
+    },
+    {
+        "name": "CM1402CM2A-EK0135 Chromebook",
+        "price": "214.90",
+        "img": "https://i.otto.de/i/otto/cf678cf0-d14a-5224-9820-629529bd7bbe?$responsive_ft2$"
+    },
+    {
+        "name": "Tonies Toniebox Starterset Lautsprecher",
+        "price": "74.99",
+        "img": "https://i.otto.de/i/otto/e7c1cc9c-babe-5b03-902a-1ea3add410c0?$responsive_ft2$"
+    },
+    {
+        "name": "10,26\" 60FPS Wireless CarPlay Display mit 3 Channel Dash Cam Dashcam",
+        "price": "164.99",
+        "img": "https://i.otto.de/i/otto/6609b221-b456-4df5-910a-3167fa369769?$responsive_ft2$"
+    },
+    {
+        "name": "10.1 Zoll Android Stereoton 2 DIN Stereo GPS mit AHD Rückfahrkamera Autoradio",
         "price": "199.99",
-        "img": "https://i.otto.de/i/otto/7366eb53-2faa-52bd-9abe-0b1a4c9e89d7?$responsive_ft2$"
+        "img": "https://i.otto.de/i/otto/c7c15a9e-fd30-4aca-91f9-9519e4cb98cd?$responsive_ft2$"
     },
     {
-        "name": "9\" 1 DIN Wireless Carplay Android Auto Bildschirm USB AUX Bluetooth Autoradio",
-        "price": "115.99",
-        "img": "https://i.otto.de/i/otto/a1207412-9b9c-4e00-9f54-d8a8f6c1f5a8?$responsive_ft2$"
-    },
-    {
-        "name": "AirPods 4 ANC wireless In-Ear-Kopfhörer",
-        "price": "179.99",
-        "img": "https://i.otto.de/i/otto/b63c2185-2f08-5dab-85bc-dd2d86051785?$responsive_ft2$"
-    },
-    {
-        "name": "Solo Soundbar Serie II Soundbar",
-        "price": "149.00",
-        "img": "https://i.otto.de/i/otto/75818962-7490-5523-895f-83a11e204a69?$responsive_ft2$"
-    },
-    {
-        "name": "7\" 1 DIN Flip Android Autoradio mit GPS Navi WIFI Touchscreen MP5 Autoradio",
-        "price": "127.49",
-        "img": "https://i.otto.de/i/otto/b93b105c-e7c5-4e9e-8c90-06fa0ec4e8e2?$responsive_ft2$"
+        "name": "EVE Damen Smartwatch, 7mm dünn, Sprachassistent, AMOLED Always-On Smartwatch",
+        "price": "89.90",
+        "img": "https://i.otto.de/i/otto/90427a0a-135d-47dc-b0c7-b7cb554c08d4?$responsive_ft2$"
     },
     {
         "name": "Enter 32 PRO X2 V2 LED-Fernseher",
@@ -135,14 +140,24 @@
         "img": "https://i.otto.de/i/otto/d0d9b208-6999-53a1-ab88-753427ccfddc?$responsive_ft2$"
     },
     {
-        "name": "11,26 Zoll Wireless CarPlay & Android Auto mit 4K DVR & Bluetooth Navigationsgerät (weltweit, GPS, Intelligentes Display)",
-        "price": "155.99",
-        "img": "https://i.otto.de/i/otto/0ab9c44b-5d5c-494b-9deb-ea9b3580cf0c?$responsive_ft2$"
+        "name": "6.86\" Touchscreen 180° drehbarer Bildschirm mit GPS 4K Frontkamera Navigationsgerät (weltweit, Mirror Link Airplay BT/AUX/FM)",
+        "price": "175.99",
+        "img": "https://i.otto.de/i/otto/e37cae49-655a-4a2d-8b81-8b991e5bdb01?$responsive_ft2$"
     },
     {
-        "name": "WH-CH720N Over-Ear-Kopfhörer",
-        "price": "78.65",
-        "img": "https://i.otto.de/i/otto/d3828c48-3e95-5b8c-ace5-0b49a7f5ff02?$responsive_ft2$"
+        "name": "Kabelloses Apple Carplay & Android Auto, 7-Zoll CarPlay Display Navigationsgerät",
+        "price": "89.99",
+        "img": "https://i.otto.de/i/otto/a335a75b-043e-464b-a3f7-d8798d6748ae?$responsive_ft2$"
+    },
+    {
+        "name": "D40F750M1CWI LED-Fernseher",
+        "price": "189.99",
+        "img": "https://i.otto.de/i/otto/bdbdc078-34ff-5681-8516-4e39b1036d86?$responsive_ft2$"
+    },
+    {
+        "name": "Solo Soundbar Serie II Soundbar",
+        "price": "149.00",
+        "img": "https://i.otto.de/i/otto/75818962-7490-5523-895f-83a11e204a69?$responsive_ft2$"
     },
     {
         "name": "DOITX3 Herren Smartwatch, Sprachassistent, AMOLED Always-On Display Smartwatch",
@@ -150,14 +165,9 @@
         "img": "https://i.otto.de/i/otto/f902ede4-625d-4987-bace-6f267d404f97?$responsive_ft2$"
     },
     {
-        "name": "7 Zoll drahtloses Carplay Digitales Multimedia Display Tragbar 12V-26V PKW-Navigationsgerät (Zentraleuropa (19 Länder), TF USB Mirror Link, GPS-Bluetooth)",
-        "price": "99.99",
-        "img": "https://i.otto.de/i/otto/fb7fa7e8-87f0-4bb4-bff8-29da16c884df?$responsive_ft2$"
-    },
-    {
-        "name": "Classic C-D6 Digitalradio (DAB)",
-        "price": "159.99",
-        "img": "https://i.otto.de/i/otto/f38f00f4-2c9c-5374-a668-96018a4231e8?$responsive_ft2$"
+        "name": "WF-C510 wireless In-Ear-Kopfhörer",
+        "price": "40.05",
+        "img": "https://i.otto.de/i/otto/f440600e-bd51-5707-a2fa-aefb1de1c225?$responsive_ft2$"
     },
     {
         "name": "Streaming-Box Bluetooth Sprachfernbedienung, (Leistungsstarke 8K Android TV Box, Dolby Audio-Unterstützung), Dual-Band Wi-Fi, flexiblem Speicher und Dolby Audio",
@@ -165,24 +175,34 @@
         "img": "https://i.otto.de/i/otto/8c8a6293-8175-40dc-9652-f896435ddadb?$responsive_ft2$"
     },
     {
-        "name": "50UT73006LA LED-Fernseher",
-        "price": "325.00",
-        "img": "https://i.otto.de/i/otto/73f1fa42-22a9-52c8-bb3b-b86c7c588763?$responsive_ft2$"
+        "name": "55E6NT LED-Fernseher",
+        "price": "319.00",
+        "img": "https://i.otto.de/i/otto/b526a55c-e43f-54fd-8155-652b8d4688df?$responsive_ft2$"
     },
     {
-        "name": "EVE Damen Smartwatch, extraflach, Sprachsteuerung, AMOLED Always-On Smartwatch",
-        "price": "89.90",
-        "img": "https://i.otto.de/i/otto/7cc6f611-b5f2-4c5d-bed3-dbfba42dd147?$responsive_ft2$"
+        "name": "7 Zoll drahtloses Carplay Digitales Multimedia Display Tragbar 12V-26V PKW-Navigationsgerät (Zentraleuropa (19 Länder), TF USB Mirror Link, GPS-Bluetooth)",
+        "price": "99.99",
+        "img": "https://i.otto.de/i/otto/fb7fa7e8-87f0-4bb4-bff8-29da16c884df?$responsive_ft2$"
     },
     {
-        "name": "Echo Dot (Neueste Generation), Smarter WLAN Bluetooth-Lautsprecher Lautsprecher (Smart-Home-Steuerung, Präzise Stimmerkennung mit Alexa)",
-        "price": "59.90",
-        "img": "https://i.otto.de/i/otto/84701889-c689-4cea-8d85-cc3df4d1afb0?$responsive_ft2$"
+        "name": "58E6NT LED-Fernseher",
+        "price": "333.33",
+        "img": "https://i.otto.de/i/otto/b526a55c-e43f-54fd-8155-652b8d4688df?$responsive_ft2$"
     },
     {
-        "name": "Lautsprecher für PC Notebook Tablet- 3,5 mm Klinke USB 3.0 3 W aktiv PC-Lautsprecher",
-        "price": "9.99",
-        "img": "https://i.otto.de/i/otto/2d8d3531-efef-5f5a-883c-600f6705f5b8?$responsive_ft2$"
+        "name": "HT-S40R Kanal- Soundbar",
+        "price": "281.98",
+        "img": "https://i.otto.de/i/otto/dfdd7473-5817-5f3f-8416-3cbd57330484?$responsive_ft2$"
+    },
+    {
+        "name": "MC 6550(N) Microanlage",
+        "price": "92.90",
+        "img": "https://i.otto.de/i/otto/8b32eecb-b1b0-5556-b0c5-97a50d1cb315?$responsive_ft2$"
+    },
+    {
+        "name": "Xemio-860 MP4-Player mit Display Akku BT 8GB MP4-Player",
+        "price": "50.55",
+        "img": "https://i.otto.de/i/otto/a2b8bec3-94fd-582a-a26c-4e146923eeec?$responsive_ft2$"
     },
     {
         "name": "IR 500-21 Internet-Radio (Internetradio-Baustein, Bluetooth, DAB+, Webradio)",
@@ -190,9 +210,24 @@
         "img": "https://i.otto.de/i/otto/c25098e8-a01d-5bd9-a27e-9bdae70179f9?$responsive_ft2$"
     },
     {
+        "name": "43E6NT LED-Fernseher",
+        "price": "249.00",
+        "img": "https://i.otto.de/i/otto/b526a55c-e43f-54fd-8155-652b8d4688df?$responsive_ft2$"
+    },
+    {
+        "name": "10 Zoll Auto Kopfstützen Player mit Touchscreen, Wireless Mirror Link Navigationsgerät (Wireless Mirror Link, SD-Karte und Online-Video)",
+        "price": "169.99",
+        "img": "https://i.otto.de/i/otto/c3882f63-fd0c-4278-93cd-be72dd033f63?$responsive_ft2$"
+    },
+    {
         "name": "Loungesofa 15410, Multimedia mit RGB-LED Beleuchtung und Bluetooth Soundsystem USB, B322/T190/H88 cm, spiegelverkehrt montierbar, Mikrofaser Grau - Korpus Kunstleder Weiß",
         "price": "1.699.00",
         "img": "https://i.otto.de/i/otto/866b97bc-527a-5162-bd8d-3bdfaa09e09e?$responsive_ft2$"
+    },
+    {
+        "name": "3D-Drucker-Stift Wisam® 3D Drucker Stift Set Blau für Kinder Erwachsene mit 3 Farben, Ergonomisch, einstellbare Geschwindigkeit, schnell heiß, Abschaltung",
+        "price": "19.99",
+        "img": "https://i.otto.de/i/otto/04991d04-32f3-5a4f-9dd5-bbdf8b5e0a7c?$responsive_ft2$"
     },
     {
         "name": "Edgar Duo Sprachverstärker Edition 2 mit kabellosem Nackenhörer Bluetooth-Lautsprecher",
@@ -200,13 +235,828 @@
         "img": "https://i.otto.de/i/otto/284da2d5-9441-42d1-8ed1-07f7c0b7b715?$responsive_ft2$"
     },
     {
-        "name": "43E6NT LED-Fernseher",
-        "price": "249.00",
-        "img": "https://i.otto.de/i/otto/b526a55c-e43f-54fd-8155-652b8d4688df?$responsive_ft2$"
+        "name": "Streaming-Stick TV Stick, (HDMI-Stick, 4K HDR Streaming), Android 13, Quadcore-Power & Sprachsteuerung",
+        "price": "39.98",
+        "img": "https://i.otto.de/i/otto/9f137eef-86b8-4826-b027-f7ba1be4c30e?$responsive_ft2$"
     },
     {
-        "name": "kabellose Vertikalmaus, Wireless 2,4 GHz Funk, ergonomische Maus (Funk, 250 dpi, ergonomisches Design, gegen Mausarm Tennisarm, Multimedia-Drehregler)",
+        "name": "Galaxy Watch 6 Classic Smartwatch",
+        "price": "236.99",
+        "img": "https://i.otto.de/i/otto/3885e7bc-3bb6-5320-bed8-0a966edab450?$responsive_ft2$"
+    },
+    {
+        "name": "Tragbares 6.86\" Touchscreen Autoradio GPS Mirror Link Sprachsteuerung Navigationsgerät (weltweit, Bluetooth, Sprachsteuerung, Online-Kartennavigation)",
+        "price": "155.99",
+        "img": "https://i.otto.de/i/otto/403248f4-f83c-4e57-8cc7-bc2085e2e3eb?$responsive_ft2$"
+    },
+    {
+        "name": "Computer Lautsprecher, Bluetooth PC-Lautsprecher",
+        "price": "32.99",
+        "img": "https://i.otto.de/i/otto/33507aa0-bcd0-4274-a49b-aa646b08f356?$responsive_ft2$"
+    },
+    {
+        "name": "7 Zoll Touchscreen Monitor Auto MP5 Player mit Rückfahrkamera Autoradio",
+        "price": "159.96",
+        "img": "https://i.otto.de/i/otto/ca32cd5c-ceb6-4a23-a4f0-20938bd88ec2?$responsive_ft2$"
+    },
+    {
+        "name": "XBOOM RNC9 Party-Lautsprecher",
+        "price": "329.00",
+        "img": "https://i.otto.de/i/otto/5247e14b-f645-53b3-8783-22149c78dea7?$responsive_ft2$"
+    },
+    {
+        "name": "ONLY Leggings ONLLIVE LOVE NEW GE (3-tlg., 3er Pack) an der Hüfte nicht zu kurz, blickdicht",
+        "price": "39.95",
+        "img": "https://i.otto.de/i/otto/780811c7-0082-5951-a948-c2d643dc97c1?$responsive_ft2$"
+    },
+    {
+        "name": "ONLY T-Shirt ONLLIVE LOVE NEW (3-tlg., 3er Pack) Figur betont, elastische Baumwollqualität",
         "price": "24.95",
-        "img": "https://i.otto.de/i/otto/d072fe50-c1f6-5331-bf92-d2f425f3c846?$responsive_ft2$"
+        "img": "https://i.otto.de/i/otto/9c8ddab3-132e-5900-99a5-50fb325105ab?$responsive_ft2$"
+    },
+    {
+        "name": "NORDCAP Steppjacke Leichte Übergangsjacke, warm wattiert und sportlich",
+        "price": "29.99",
+        "img": "https://i.otto.de/i/otto/bd32a4db-46c7-5700-b962-fba5f0300c7c?$responsive_ft2$"
+    },
+    {
+        "name": "TAZZIO Cargohose 16610 Stretch mit Elasthan, Regular Fit",
+        "price": "31.92",
+        "img": "https://i.otto.de/i/otto/d85a0f28-5c3b-58f0-80c0-985e363bbc8a?$responsive_ft2$"
+    },
+    {
+        "name": "ADIDAS SPORTSWEAR Trainingsanzug W TEAMSPORT TS (2-tlg), Jacke schmal geschnitten; Hose regulär geschnitten, hoher Bund",
+        "price": "67.99",
+        "img": "https://i.otto.de/i/otto/461de45d-0073-5630-be37-f82276263caf?$responsive_ft2$"
+    },
+    {
+        "name": "RMK T-Shirt Damen Shirt Top Sommer Basic Mund dicke Lippe Lips Psst",
+        "price": "9.90",
+        "img": "https://i.otto.de/i/otto/1047d6a9-7a70-46b2-90e2-8761f7d00f63?$responsive_ft2$"
+    },
+    {
+        "name": "ROSS CAMP Jogginghose Jogginghose Damen, weite Yogahose (1-tlg)",
+        "price": "14.70",
+        "img": "https://i.otto.de/i/otto/5f22356b-fb16-4195-a954-71abc0b507f5?$responsive_ft2$"
+    },
+    {
+        "name": "BRUNO BANANI Jerseyhose Saum-Bündchen",
+        "price": "41.99",
+        "img": "https://i.otto.de/i/otto/9f133bb7-0399-5875-b21e-fd0de23e4a50?$responsive_ft2$"
+    },
+    {
+        "name": "H.I.S Schlupfhose in Jeans Optik, Loungewear",
+        "price": "29.99",
+        "img": "https://i.otto.de/i/otto/eba63065-cb77-5ca0-904f-f178aec1fcd3?$responsive_ft2$"
+    },
+    {
+        "name": "ARIZONA Skinny-fit-Jeans Ultra-Stretch extra-enger Beinverlauf, normale Leibhöhe, mit Eingrifftaschen",
+        "price": "27.99",
+        "img": "https://i.otto.de/i/otto/58e51847-1603-5bbf-bcdd-e9212c7ccbfc?$responsive_ft2$"
+    },
+    {
+        "name": "ADIDAS ORIGINALS Sporthose ADIBREAK PANT (1-tlg) Knopfhose, Knopfleiste am Bein",
+        "price": "50.99",
+        "img": "https://i.otto.de/i/otto/f50bbe8e-183d-525a-b532-358483874960?$responsive_ft2$"
+    },
+    {
+        "name": "VERO MODA Skinny-fit-Jeans VMTANYA mit Stretch",
+        "price": "26.99",
+        "img": "https://i.otto.de/i/otto/ce091a3f-c2fa-5696-9d23-6bd15b065501?$responsive_ft2$"
+    },
+    {
+        "name": "CHIEMSEE Poloshirt atmungsaktiv und hautsympathisch aus Baumwoll-Piqué",
+        "price": "17.99",
+        "img": "https://i.otto.de/i/otto/4fe238db-30f0-588c-a3ac-0062c9174a71?$responsive_ft2$"
+    },
+    {
+        "name": "H.I.S Langarmshirt figurbetonte Passform, Feinrippstoff aus Baumwolle und Viskose",
+        "price": "10.49",
+        "img": "https://i.otto.de/i/otto/24b14333-98ec-5810-9bd5-a36062129bb6?$responsive_ft2$"
+    },
+    {
+        "name": "NIKE SPORTSWEAR Jogginganzug NKN CLUB FLEECE SET (Set, 2-tlg), für Kinder",
+        "price": "42.99",
+        "img": "https://i.otto.de/i/otto/10ca354b-10e3-5dd3-90ba-47b614976a4f?$responsive_ft2$"
+    },
+    {
+        "name": "ARIZONA Bootcut-Jeans mit Keileinsätzen ausgestellte Beinform, niedrige Leibhöhe, elastisches Material",
+        "price": "41.99",
+        "img": "https://i.otto.de/i/otto/515126dd-45e5-5015-957e-58dde844a788?$responsive_ft2$"
+    },
+    {
+        "name": "LAURA SCOTT Sweatshirt Cropped Form",
+        "price": "17.49",
+        "img": "https://i.otto.de/i/otto/54c39387-5cc8-5b38-8188-b0998010c432?$responsive_ft2$"
+    },
+    {
+        "name": "LASCANA Loungehose mit floralem Alloverdruck, Loungewear",
+        "price": "19.99",
+        "img": "https://i.otto.de/i/otto/3b90047b-39f0-5fc3-8b22-f84de280d33a?$responsive_ft2$"
+    },
+    {
+        "name": "FRENCH CONNECTION Kapuzenpullover mit Logodruck",
+        "price": "39.99",
+        "img": "https://i.otto.de/i/otto/d58f7b12-ac2e-5542-8e47-eefe798f8bb7?$responsive_ft2$"
+    },
+    {
+        "name": "MELROSE Strickkleid für Partys, figurbetont mit trendy Jacquard Muster",
+        "price": "34.99",
+        "img": "https://i.otto.de/i/otto/4ab30e34-13f9-5225-87f3-6803b992fce4?$responsive_ft2$"
+    },
+    {
+        "name": "ONLY Skinny-fit-Jeans ONLWAUW – Skinny-Jeans mit Destroyed-Effekt und Stretch skinny fit, modisch, Denim, Baumwollmischung",
+        "price": "27.99",
+        "img": "https://i.otto.de/i/otto/ab87ccf1-96e6-5bfd-8656-6a29f2cd7400?$responsive_ft2$"
+    },
+    {
+        "name": "CHIEMSEE Langarm-Poloshirt aus formstabilem Baumwoll-Piqué",
+        "price": "22.99",
+        "img": "https://i.otto.de/i/otto/4ad2f0d5-dcc3-59de-acea-1170a61c652b?$responsive_ft2$"
+    },
+    {
+        "name": "LAURA SCOTT Strickpullover mit Rollkragen und Colorblock Design",
+        "price": "28.99",
+        "img": "https://i.otto.de/i/otto/13025134-d6e9-5270-87f2-0e50da6afd84?$responsive_ft2$"
+    },
+    {
+        "name": "MAN'S WORLD Sweatshirt Langarm, Basic-Stil, unifarben, Rundhalsausschnitt",
+        "price": "15.99",
+        "img": "https://i.otto.de/i/otto/d431ee37-26a1-5559-81fb-7a69b428f354?$responsive_ft2$"
+    },
+    {
+        "name": "BUFFALO Hoodie mit Statement Druck, Loungeanzug",
+        "price": "39.99",
+        "img": "https://i.otto.de/i/otto/ac752c7d-834d-56ee-9180-d3df0501008b?$responsive_ft2$"
+    },
+    {
+        "name": "KANGAROOS Sweatshirt Langarm, figurumspielender Schnitt, mit Print, Rundhalsausschnitt",
+        "price": "29.99",
+        "img": "https://i.otto.de/i/otto/0cccc70a-3996-500b-8fbd-95e2daf4f4e5?$responsive_ft2$"
+    },
+    {
+        "name": "LAURA SCOTT Longblazer mit Reißverschlüssen",
+        "price": "48.99",
+        "img": "https://i.otto.de/i/otto/6a8de724-f781-53dc-a0d8-d4d609413695?$responsive_ft2$"
+    },
+    {
+        "name": "LAURA SCOTT Jerseykleid in modischer Midilänge",
+        "price": "36.99",
+        "img": "https://i.otto.de/i/otto/a944ed90-8ecd-5b3f-addd-89c1eb1b4044?$responsive_ft2$"
+    },
+    {
+        "name": "ADIDAS SPORTSWEAR Sporthose M STNFRD OPT 3S (1-tlg) Stanford drei Streifen Trainingshose",
+        "price": "29.99",
+        "img": "https://i.otto.de/i/otto/ca279240-329a-532e-82b2-44a325d92511?$responsive_ft2$"
+    },
+    {
+        "name": "KENDINDZA COLLECTION Stretch-Hose Damen Hose Stretch mit Gürtel Stoffhose Damen elegant lang Elastisch Chinohose Damen",
+        "price": "29.95",
+        "img": "https://i.otto.de/i/otto/dc1b9d0e-44c1-47ed-b110-eb38d5f40af8?$responsive_ft2$"
+    },
+    {
+        "name": "AMACI&SONS Weite Jeans BOX HILL 90s Baggy Jeans Herren 90s Denim Jeans Hose Straight Baggy",
+        "price": "29.90",
+        "img": "https://i.otto.de/i/otto/d0ecfb0b-9d81-5962-bd5e-4eae6789f5b6?$responsive_ft2$"
+    },
+    {
+        "name": "KANGAROOS Langarmshirt mit Blumendruck und Knopfleiste",
+        "price": "20.99",
+        "img": "https://i.otto.de/i/otto/ad77b017-696a-5e07-801f-7d282994fcb1?$responsive_ft2$"
+    },
+    {
+        "name": "KANGAROOS Longsleeve Langarm, sehr figurbetont und hüftbedeckend, mit Herzchen-Detail",
+        "price": "17.49",
+        "img": "https://i.otto.de/i/otto/f8571ca0-aedd-5069-bef8-b7e22508356a?$responsive_ft2$"
+    },
+    {
+        "name": "AMACI&SONS Sweatshirt JACKSONVILLE Sweatshirt mit Rundhalsausschnitt Herren Basic College Sweatjacke Pullover Hoodie",
+        "price": "16.95",
+        "img": "https://i.otto.de/i/otto/ba206319-e318-5e91-b875-4ffb697f535a?$responsive_ft2$"
+    },
+    {
+        "name": "LEVI'S® T-Shirt ORIGINAL HM TEE",
+        "price": "17.99",
+        "img": "https://i.otto.de/i/otto/667cfe3e-aee1-578d-9f7b-7d999cda88d8?$responsive_ft2$"
+    },
+    {
+        "name": "MELROSE Anzug (Set, 2-tlg)",
+        "price": "72.99",
+        "img": "https://i.otto.de/i/otto/59ad9620-15a2-5a18-9689-e0b321358fa3?$responsive_ft2$"
+    },
+    {
+        "name": "RMK T-Shirt Damen Shirt Top Sommer Love Liebe aus 100% Baumwolle",
+        "price": "9.90",
+        "img": "https://i.otto.de/i/otto/20c5284e-ad7a-40fa-90db-6b8ea726c61a?$responsive_ft2$"
+    },
+    {
+        "name": "TAZZIO Slim-fit-Jeans 16533 Stretch mit Elasthan",
+        "price": "31.92",
+        "img": "https://i.otto.de/i/otto/a3db987e-898d-4fa1-8df4-5b186c61bd86?$responsive_ft2$"
+    },
+    {
+        "name": "FRUIT OF THE LOOM T-Shirt, sechs Stück in unterschiedlicher Farbkomination (Packung, 6-tlg., 6er-Pack) mit Rundhalsausschnitt",
+        "price": "23.99",
+        "img": "https://i.otto.de/i/otto/66d86203-bdc5-5e48-93eb-a50f00871ad7?$responsive_ft2$"
+    },
+    {
+        "name": "Handtuch Set Vanessa, 10-tlg Handtuch-Set, in Standard- und Premium-Qualität, weich, Walkfrottee (Set, 10-St), 100% Baumwolle, Duschtücher, Handtücher, Gästetücher, mit Bordüre",
+        "price": "23.99",
+        "img": "https://i.otto.de/i/otto/c069a4f1-23e5-5ff0-82df-019bd96a3801?$responsive_ft2$"
+    },
+    {
+        "name": "Geschirrtuch Geschirrtücher Baumwolle Allzweck Tücher Küchentücher Trockentuch, (10 er, 10-tlg, Größe 50x70 cm), Geschirrhandtücher, Premium Qualität, 100% Baumwolle, Schwarz",
+        "price": "9.49",
+        "img": "https://i.otto.de/i/otto/5dbf2fc8-7bf5-445e-a2d6-ee622a96b346?$responsive_ft2$"
+    },
+    {
+        "name": "Besteck-Set Cutlery Set 24-teiliges Besteckset Set Service für 6 Gift Box (24-tlg), Edelstahl",
+        "price": "39.90",
+        "img": "https://i.otto.de/i/otto/8d8017d5-5879-40a8-ad78-354794722eb8?$responsive_ft2$"
+    },
+    {
+        "name": "Schüssel Marie, Edelstahl, (Set, 10-tlg), mit Deckel",
+        "price": "9.99",
+        "img": "https://i.otto.de/i/otto/6aa1defa-3032-510d-ba31-a680950f7509?$responsive_ft2$"
+    },
+    {
+        "name": "Vorratsdose Vorratsdosen mit Deckel Luftdicht, Vorratsbehälter Set, BPA Frei, (Vorratsbehälter Set, Aufbewahrungsbox Küche, Luftdichte Aufbewahrungsbox im Set inkl. 80 Etiketten, BPA Frei Kunststoff, Vorratsbehälter Set, Vorratsdosen für alle trockenen Lebensmittel), Tupperdosen Set, Meal Prep Boxen, Aufbewahrungsbox Küche",
+        "price": "24.99",
+        "img": "https://i.otto.de/i/otto/d75a5491-0e40-4707-a38e-0ca24d00baa8?$responsive_ft2$"
+    },
+    {
+        "name": "Pfannen-Set Dela, Aluminium (Set, 3-tlg), mit rauer Oberfläche für ein besonderes Braterlebnis",
+        "price": "37.22",
+        "img": "https://i.otto.de/i/otto/16119f84-1ec9-572f-b4cd-9c7a0055ff66?$responsive_ft2$"
+    },
+    {
+        "name": "Gästehandtücher Juna, als Set und Serie erhältlich, 6 Gästetücher, 30x50cm, Walkfrottee (6-St), 100% Baumwolle, mit Bordüre, Uni-Farben, weich",
+        "price": "10.24",
+        "img": "https://i.otto.de/i/otto/e6f8ec86-7a55-51c7-96a8-05b6c8317397?$responsive_ft2$"
+    },
+    {
+        "name": "Kochbesteck-Set 48er Silikon Küchenhelfer, Küchenzubehör Set Küchenutensilien",
+        "price": "32.99",
+        "img": "https://i.otto.de/i/otto/45dcc58a-4668-49a9-a4b0-6447222ef8dd?$responsive_ft2$"
+    },
+    {
+        "name": "Tafelservice Teller Set, Geschirr-Set Bel Tempo (12-tlg), 6 Personen, Keramik, rustikale Holzoptik mit Spiraldekor, 12 Teile, für 6 Personen",
+        "price": "49.99",
+        "img": "https://i.otto.de/i/otto/bfe88b50-1350-5d0d-af7e-7aa5710bfc9c?$responsive_ft2$"
+    },
+    {
+        "name": "Besteck-Set Miami in eleganter Optik, ergonomische Haptik, Wellenschliff-Messer (60-tlg), 12 Personen, Cromargan® Edelstahl Rostfrei 18/10, spülmaschinengeeignet, säuregeeignet, hochwertiger Besteckkasten",
+        "price": "99.99",
+        "img": "https://i.otto.de/i/otto/05764ce6-25f3-5282-baa0-7795300aec53?$responsive_ft2$"
+    },
+    {
+        "name": "Kontaktgrill GC242D Inicio Grill Adjust, 2000 W, regelbarer Thermostat mit 3 Stufen, antihaftbeschichtete Platten",
+        "price": "59.90",
+        "img": "https://i.otto.de/i/otto/09507680-46c8-5b76-89d3-ba4dc8d1c832?$responsive_ft2$"
+    },
+    {
+        "name": "Pfannen-Set Duetto+, Edelstahl (Set, 3-tlg., je 1 Bratpfanne Ø 20, 24, 28 cm), Premium Edelstahl, Induktionspfanne, Temperaturanzeiger",
+        "price": "59.99",
+        "img": "https://i.otto.de/i/otto/8a20ac20-f8ca-5b6d-890f-d7488d2ada85?$responsive_ft2$"
+    },
+    {
+        "name": "Gläser-Set Noblesse, Kristallglas, Made in Germany, 18-teilig",
+        "price": "54.87",
+        "img": "https://i.otto.de/i/otto/aa917b3b-a722-5eaa-82ae-0ff7e9fcddb4?$responsive_ft2$"
+    },
+    {
+        "name": "Vorratsdose, Kunststoff, (5-tlg)",
+        "price": "11.56",
+        "img": "https://i.otto.de/i/otto/686c77f9-f952-5d0e-bf90-c742045a763a?$responsive_ft2$"
+    },
+    {
+        "name": "Pfannen-Set Induktion, Bratpfannenset, Edelstahl 18/10 (Set, 3-tlg., je 1x Pfanne 20 cm, 1,4 l; 24 cm, 2,2 l; 28 cm, 3,4 l), Induktionspfanne, Antihaftbeschichtung, Leichte Reinigung",
+        "price": "66.49",
+        "img": "https://i.otto.de/i/otto/fe9248ce-c33b-49b1-b0f5-0b64b09e9abe?$responsive_ft2$"
+    },
+    {
+        "name": "Küchenorganizer-Set Küchen Spülbecken Organizer, Sink Caddy Organizer, Schwammhalter, (Aufbewahrung Spülutensilien mit Auto-Abfluss und 360° Drehbarem Auslauf Für Handtüchern, Aufbewahrung für die Arbeitsplatte, Spülbürsten Halter,Spülmittelhalter mit Abfluss, Küchenorganisation Waschbecken, mit Abflusspfanne, 1-tlg., Spülmittelhalter Küche, Abtropfhalter Küche,Küchenutensilien Organizer), Rostschutz, Platzsparend, für Küche, Badezimmer, Vielseitige Nutzung",
+        "price": "15.99",
+        "img": "https://i.otto.de/i/otto/9e33190e-f9c3-43a6-aa1a-eb9a006de70f?$responsive_ft2$"
+    },
+    {
+        "name": "Geschirrtuch Geschirrtuch Geschirrtücher 100% Baumwolle Trockentuch Küchentücher, (6 er, 6-tlg, Größe 50x70 cm)",
+        "price": "9.49",
+        "img": "https://i.otto.de/i/otto/e386b55d-25e8-4222-b057-b753de1084ca?$responsive_ft2$"
+    },
+    {
+        "name": "Glas Riffle Cup 400ml für Kalt- & Heißgetränke, Spülmaschinenfest, Stilvoll, Borosilikatglas, hitzebeständiges Tassen Set für Kaffee, Matcha, Latte Macchiato, 6 St.",
+        "price": "39.90",
+        "img": "https://i.otto.de/i/otto/c47b69a1-9699-45b3-a1ae-b725f5a5a016?$responsive_ft2$"
+    },
+    {
+        "name": "Kochbesteck-Set Küchenutensilien 8er Set Holz (Set, 8-tlg), Küchen Accessoires Zubehör Haushalt Set & Halterung / Aufhängeschlaufe",
+        "price": "19.99",
+        "img": "https://i.otto.de/i/otto/97e7a1ad-a3f2-5931-bac3-60c2bcacedcb?$responsive_ft2$"
+    },
+    {
+        "name": "Handtuch Set Afri, Duschtücher, Handtücher, Gästetücher, Seiftücher, Walkfrottee (Set, 10-St), zweifarbig, 100% Baumwolle, weich, mit Bordüre",
+        "price": "29.99",
+        "img": "https://i.otto.de/i/otto/040500c2-165b-5b47-a9e9-0ffa5d49c258?$responsive_ft2$"
+    },
+    {
+        "name": "Zerkleinerer (Würfel- und Stifteschneider) TREPPO, Kunststoff, Edelstahl, 1000 ml",
+        "price": "32.99",
+        "img": "https://i.otto.de/i/otto/30a966c8-2794-5d72-a8a6-2a56477dea8a?$responsive_ft2$"
+    },
+    {
+        "name": "Frischhaltedose Aufschnittboxen für Kühlschrank, Wurst Aufbewahrung Kühlschrank, (Aufschnittbox Stapelbar, Kühlschrank Organizer, BPA Frei Kunststoff, Frischhaltedosen mit Deckel, Aufschnittdosen), BPA Frei, Dishwasher Safe, Reusable",
+        "price": "14.90",
+        "img": "https://i.otto.de/i/otto/a7d16ad9-e1a3-4088-a5d4-53ad68c35113?$responsive_ft2$"
+    },
+    {
+        "name": "Kochbesteck-Set 12er Silikon Küchenutensilien Küchenhelfer-set,Kochbesteck-set (mit Hitzebeständigem Holzgriff und Aufhängeschlaufe, 12-tlg., Kochbesteck, Küchen Utensil Set, Silikon und Holz, Kochutensilien), BPA-frei für Kochen Braten Schöpfen Mischen und Backen usw",
+        "price": "17.99",
+        "img": "https://i.otto.de/i/otto/47809d0c-283c-5e4d-8eaa-13c351726500?$responsive_ft2$"
+    },
+    {
+        "name": "Handtuch Set Regona, als 10 tlg Set und Serie, Premium Handtücher, 500 gr/m², Frottier (Set, 10-St), Duschtücher, Handtücher, Gästetücher, Seiftücher, 100% Baumwolle",
+        "price": "27.99",
+        "img": "https://i.otto.de/i/otto/7a99ef29-9dbe-5721-9232-abaa32954e66?$responsive_ft2$"
+    },
+    {
+        "name": "Longdrinkglas Gin, Glas, 8-teilig, inkl. Glas-Trinkhalme, 590 ml",
+        "price": "12.99",
+        "img": "https://i.otto.de/i/otto/c0560398-ea45-5d1c-9269-beaae8403d52?$responsive_ft2$"
+    },
+    {
+        "name": "Vorratsglas Depot, Cromargan® Edelstahl Rostfrei 18/10, Glas, Kunststoff, (1-tlg), verschließt aromadicht",
+        "price": "21.43",
+        "img": "https://i.otto.de/i/otto/08428ee8-05d7-5e01-b851-d76b13eae3b9?$responsive_ft2$"
+    },
+    {
+        "name": "Kontaktgrill GL311 sandwichmaker Panini Sandwich Maker Tischgrill Elektrogrill, 750 W",
+        "price": "19.69",
+        "img": "https://i.otto.de/i/otto/b98eb1ee-25cc-4de8-b117-d7f3b8c7e163?$responsive_ft2$"
+    },
+    {
+        "name": "Frischhaltedose Frischhaltedosen mit Deckel, Vorratsdosen mit Deckel Luftdicht Set, (5er Tupperdosen Set, 2725ml, 1675ml, 975ml, 565ml, 310ml), Tupperdosen Set, Meal Prep Boxen, BPA Free Kunststoff",
+        "price": "22.95",
+        "img": "https://i.otto.de/i/otto/9a7613cd-12ac-4b0f-9a68-8dba29b87452?$responsive_ft2$"
+    },
+    {
+        "name": "Toaster HD2581/90 Daily Collection, 2 kurze Schlitze, für 2 Scheiben, 830 W, Brötchenaufsatz, Krümelschublade, 8 Bräunungsstufen, Schwarz",
+        "price": "27.99",
+        "img": "https://i.otto.de/i/otto/cf67ca61-9de8-5997-a7f8-d98569cf6708?$responsive_ft2$"
+    },
+    {
+        "name": "Schüssel, Edelstahl, (Set, 10-tlg), spülmaschinengeeignet",
+        "price": "9.99",
+        "img": "https://i.otto.de/i/otto/e854b0bf-9ae5-5800-90d7-fed431208d6d?$responsive_ft2$"
+    },
+    {
+        "name": "Duschsystem Brausegarnitur Badezimmer Haushalt Klavier 4-Gang-Taste Gunmetal, Duschsäule Brauseset Duschsystem, 3 Strahlart",
+        "price": "53.99",
+        "img": "https://i.otto.de/i/otto/fbf7076c-c392-4dab-b5c2-feb5fac364cd?$responsive_ft2$"
+    },
+    {
+        "name": "Topf-Set Aluguss Topf- und Pfannenset inkl. praktischen Küchenhelfern, 17 tlg., Aluminiumguss (Set, 17-tlg., Fleischtopf 16/18/20/24cm, Stieltopf 16cm Steakpfanne 7 T.Küchenhelfer), inkl. 7-tlg. Küchenhelfer-Set",
+        "price": "99.99",
+        "img": "https://i.otto.de/i/otto/11564f18-ef19-51eb-acd1-f93fbb6bca68?$responsive_ft2$"
+    },
+    {
+        "name": "Salatschüssel Salatschale mit Deckel und Salatbesteck, Polypropylen, (Set, 4-tlg), Deckel aus FSC®-zertifiziertem Bambus",
+        "price": "15.01",
+        "img": "https://i.otto.de/i/otto/03c6d289-f7bb-5b0c-9876-84db7d66489e?$responsive_ft2$"
+    },
+    {
+        "name": "Werkzeugset Haushaltskoffer / 8973630, 60-teilig - Werkzeug-Set für den täglichen Gebrauch",
+        "price": "47.10",
+        "img": "https://i.otto.de/i/otto/fcc267cf-2007-54d0-88a2-b1bfe5f57991?$responsive_ft2$"
+    },
+    {
+        "name": "Gemüsehacker 5 Sekunden Zerkleinerer, 500ml, Edelstahlklingen, rutschfest, Soft-Touch-Griff, Weiß/Grün",
+        "price": "14.99",
+        "img": "https://i.otto.de/i/otto/2fedb623-d6b9-5b7e-8cea-545269a4616f?$responsive_ft2$"
+    },
+    {
+        "name": "Latte-Macchiato-Tasse Doppelwandiges Trinkglas 450ml, Borosilikat-Glas, Wasser- Longdrink- & Cocktailgläser",
+        "price": "5.95",
+        "img": "https://i.otto.de/i/otto/dcee27e9-a1dd-4367-9193-013b551aaec9?$responsive_ft2$"
+    },
+    {
+        "name": "Kochbesteck-Set Küchenhelfer Set 38tlg Silikon Kochbesteck Holzgriff Küchenutensilien",
+        "price": "29.90",
+        "img": "https://i.otto.de/i/otto/e32487cf-e4e5-4cdd-b1c2-0f289d2cad35?$responsive_ft2$"
+    },
+    {
+        "name": "Wasserkocher BUENO, 1,7 l, 2400 W, Cromargan",
+        "price": "37.99",
+        "img": "https://i.otto.de/i/otto/c68b9abf-ba85-53c8-8f7f-f4fb90c94bfc?$responsive_ft2$"
+    },
+    {
+        "name": "Wasserkocher HD9318/20 Daily Collection, 1,7 l, 2200 W, Trockengehschutz, Schwarz",
+        "price": "27.99",
+        "img": "https://i.otto.de/i/otto/37795d7e-58d5-5016-bd10-95750bcd9c61?$responsive_ft2$"
+    },
+    {
+        "name": "Gewürzbehälter Gewürzhalter JIAO, Bambus",
+        "price": "17.99",
+        "img": "https://i.otto.de/i/otto/96402ddf-2374-57fd-ac93-43943e0a7aad?$responsive_ft2$"
+    },
+    {
+        "name": "Pfannen-Set Gourmet Granit, Aluminium (Set, 4-tlg., 1x Bratpfanne Ø 20 cm, 1x Bratpfanne Ø 24 cm, 1x Grillpfanne Ø 28 cm), Induktion",
+        "price": "29.99",
+        "img": "https://i.otto.de/i/otto/349a40f4-a902-597e-bf07-6b58739e7200?$responsive_ft2$"
+    },
+    {
+        "name": "Sideboard Kenia, Kommode für das Schlafzimmer/Wohnzimmer (1 St), Modernes Sideboard mit 3 Schubladen und 4 Fächern, Breite 150 cm",
+        "price": "149.99",
+        "img": "https://i.otto.de/i/otto/065d7ede-2822-55ce-bb12-76164dd28e0c?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Drehtürenschrank Mokkaris, OTTOs Choice, TOPSELLER! 3 oder 4 Türen, zeitloses Design (BHT ca. 145x200x59cm oder BHT ca. 206x200x59cm) Schubladen, schwarze Stangengriffe, Made in Europe, viel Stauraum",
+        "price": "195.00",
+        "img": "https://i.otto.de/i/otto/f196001e-6d29-5ba3-8c44-7981d44ed4c4?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Lowboard COLGANTE KASCHMIR 200 cm TV-Schrank mit LED Beleuchtung",
+        "price": "199.00",
+        "img": "https://i.otto.de/i/otto/cd075fd8-1cbd-4ca2-96a4-9a216fe02854?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Polsterbett SONIC-OM mit Bettkasten und Lattenrost (Bett mit Kopfteil. Lattenrost und Bettkasten .Viele Varianten zur Auswahl – wählen Sie Größe und Farbe!, TOP ANGEBOT), Länge: 220 cm Höhe Kopfteil: 100 cm",
+        "price": "613.00",
+        "img": "https://i.otto.de/i/otto/315c8583-e34d-45a3-9d2b-7a4b4c5c06a0?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Drehtürenschrank Malta mit Hochglanz-Front",
+        "price": "156.99",
+        "img": "https://i.otto.de/i/otto/cfe8cb44-9f30-5019-a509-609d3c99ee30?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Polsterbett, Doppelbett 160×200cm mit 2 Nachttische 4 Schublade Leselicht USB-Laden",
+        "price": "499.99",
+        "img": "https://i.otto.de/i/otto/fcafc031-7951-43db-bcaf-80d73c2919f3?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Kleiderschrank Kalixtus, OTTOs Choice, TOPSELLER, Made in Europe (B/H/T ca. 200x190x60 cm, 2 Schiebetüren, 2 Drehtüren, 8 Einlegeböden) Kombination aus Dreh- und Schwebetüren, mehrere Farben",
+        "price": "295.00",
+        "img": "https://i.otto.de/i/otto/3eaa7de9-fcef-585d-b9fb-6e6c5e66a4fd?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Lowboard LOWBOARD VERA, wahlweise mit oder ohne Beleuchtung, Modernes griffloses TV-Board, 180 cm TV-Schrank, stehend und hängend",
+        "price": "99.99",
+        "img": "https://i.otto.de/i/otto/2462e7bd-10ec-59fa-9d45-e609f2819e15?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Lowboard Kenia (1 St), 2 Türen, 2 Schubladen, Breite 180 cm, höhenverstellbare Einlegeböden",
+        "price": "149.99",
+        "img": "https://i.otto.de/i/otto/7ac8979f-68a1-5001-8e8c-242043401f73?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Sideboard Egypt, Kommode, Schrank, Kredenz, grifflos, 4 Türen, Hochglanz lackiert, Breite 180",
+        "price": "209.99",
+        "img": "https://i.otto.de/i/otto/b2a0807a-dd63-5fdd-970e-61a04bd3612d?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Vitrine LINO Standvitrine mit Schublade, Fronten gefräst, Modern Wohnzimmer",
+        "price": "505.00",
+        "img": "https://i.otto.de/i/otto/bf58f2d3-8dde-49b9-99fa-ad3fd52595da?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Schwebetürenschrank ORAVELLE 3-türiger Kleiderschrank mit Spiegel, 4 Schubladen (TOP ANGEBOT! Geräumiger Schrank mit einer Breite von 200 cm und Spiegel, ideal zur Aufbewahrung von Kleidung und Accessoires. 4 Schubladen gratis und viel Stauraum. TOP PRODUKT! Wählen Sie das ideale Modell für Ihr Schlafzimmer!, Gratis 4 Schubladen – Katalogpreis der Schubladen 219 Euro) Breite: 200 cm, Höhe: 215 cm, Tiefe: 59,5 cm",
+        "price": "499.00",
+        "img": "https://i.otto.de/i/otto/36958dae-6e5b-43dd-9713-0ac48c982933?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Couchtisch Höhenverstellbarer Kaffeetisch mit Verstecktem Stauraum und Ablage, Ausziehbarer Wohnzimmertisch Sofatisch für Wohnzimmer",
+        "price": "79.99",
+        "img": "https://i.otto.de/i/otto/bd2268f7-d35d-4f7f-ae74-bb7771866979?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Nachttisch (1-St), 3 Schubladen, abgeschrägte Kante, 2 AC-Steckdosen, 2 USB-Anschlüsse",
+        "price": "59.99",
+        "img": "https://i.otto.de/i/otto/6dc9764a-784e-4081-b0fc-834b30bf94ac?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Schlafsofa Bella, mit Bettfunktion und Bettkasten, inkl. loser Rücken- und Zierkissen",
+        "price": "399.99",
+        "img": "https://i.otto.de/i/otto/1f63c3af-38b2-531b-9f43-8dda08a8a94f?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Kleiderständer, Kleiderschrank offen, 3 Hängefächer",
+        "price": "29.99",
+        "img": "https://i.otto.de/i/otto/25ad1a28-55b3-4858-974d-8f26f5ed90f4?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Ecksofa VIENA 328x182 cm mit Schlaffunktion, Bonellfederkern und Bettkasten, TOP ANGEBOT!",
+        "price": "899.00",
+        "img": "https://i.otto.de/i/otto/34a034e5-7403-4031-aef3-937d4fec5121?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Wohnwand VERA II, Vitrinen Türanschlag wechselbar, (Komplett-Set, 4-St), Mediawand 260 cm, Vitrine mit Verglasung, stehend und hängend",
+        "price": "279.99",
+        "img": "https://i.otto.de/i/otto/da8f5f68-f983-5a7c-962d-12862740fedc?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Schreibtisch Elektrisch Höhenverstellbar elektrischer Memory-Funktion (Zweistufige Höhenverstellung, schnelle Montage, Intelligente Kollisionsschutzfunktion, Große Größe : 110/140*60cm 160*80 cm)",
+        "price": "89.09",
+        "img": "https://i.otto.de/i/otto/54640846-7eea-4343-9994-2a4d1f7db519?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "TV-Schrank LOGANTE 200 cm Breite Unterschrank TV Lowboard Metall Füße 200 cm Breite",
+        "price": "259.00",
+        "img": "https://i.otto.de/i/otto/6bbb4c47-f8aa-40f6-a3d6-e06ff9d0403d?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Polsterbett BUBBLE boucle Designerbett 140/160/180x200 BIZU, Wolkenbett, TOPSELLER Stauraumbett MADE IN EU",
+        "price": "799.00",
+        "img": "https://i.otto.de/i/otto/df2eafe6-9a4f-4458-9b71-4ff58be34cf7?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Stauraumschrank Kommode mit Stoffschubladen, Stoffkommode für Schlafzimmer Geeignet Schubladenschränke",
+        "price": "47.99",
+        "img": "https://i.otto.de/i/otto/cee53c57-9b13-4f5f-8a95-5c1ac2833061?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Lowboard TV Schrank schwarz/weiß, Lange 135/160/180cm, TV",
+        "price": "84.99",
+        "img": "https://i.otto.de/i/otto/5f944cba-2aa2-4f70-9d08-b705c1b3944f?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Couchtisch OVI-Tischset mit geriffelter Basis (2er Set), Durchmesser: ⌀80 cm und ⌀60 cm",
+        "price": "269.00",
+        "img": "https://i.otto.de/i/otto/9f77460c-f17a-4459-a87f-8a303758c2b2?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Bücherregal, 1-tlg., Standregal, Büroregal, 6 Fächer, Holzwerkstoff, 70x190,5x24cm (BxHxT)",
+        "price": "50.99",
+        "img": "https://i.otto.de/i/otto/94936efe-6174-4f22-810c-189f0a5668e2?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "TV-Schrank verstellbare Länge 162-270 cm, L-Form, LED-Beleuchtung",
+        "price": "99.99",
+        "img": "https://i.otto.de/i/otto/38e63d09-63e1-4674-b0ba-4bcc249945e8?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Wohnwand Florenz 8, (Set, 4-St), im romatischen Landhauslook",
+        "price": "849.99",
+        "img": "https://i.otto.de/i/otto/7b46c95b-237c-5229-9543-8e43e551f1cd?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Lowboard Vaasa, Breite 152 cm, nur hängend",
+        "price": "119.99",
+        "img": "https://i.otto.de/i/otto/1a16d3d8-c569-5539-9ab1-e7a197e20b89?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Sideboard Vaasa, Breite 152 cm",
+        "price": "179.99",
+        "img": "https://i.otto.de/i/otto/3bcb49c1-29b4-5c2a-860a-e3c99d7d2b05?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Sideboard Tom, Breite 200 cm",
+        "price": "249.99",
+        "img": "https://i.otto.de/i/otto/248c92b7-b37c-5187-9262-40c5817a3a29?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Aktenschrank Moid, moderner Mehrzweckschrank, Maße: 64,5x41,5x175 cm, 5 Fächer mit viel Stauraum",
+        "price": "129.99",
+        "img": "https://i.otto.de/i/otto/dd2c86fa-bac4-5db4-a29d-c63f0310862d?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Wohnwand New Egypt, Anbauwand, Medienwand, Wohnzimmerwand, (Set, 5-St., 2 Klappen,2 kleine Türen,2 große Türen), Regalaufsatz Breite 290 Höhe 191",
+        "price": "679.99",
+        "img": "https://i.otto.de/i/otto/0a3ff939-9749-53ee-9d65-4fd11c821555?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Esstisch 120-160 cm MODERNO, Säulengestell mit Rillenstruktur, ausziehbarer Tisch, Gestell in Lamellenoptik",
+        "price": "489.00",
+        "img": "https://i.otto.de/i/otto/e98ea5b9-c4e0-43d8-9365-309f1a6f7273?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Glasvitrine Ausstellungsschrank mit Glastür, 4-stufiger Kuriosekabinett (1-St) Helligkeitsregelung, einfacher Aufbau mit Kippschutz",
+        "price": "129.99",
+        "img": "https://i.otto.de/i/otto/471318b4-5377-4f4a-8df5-e12be7b2fa24?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Kleiderschrank Mugano,in 8 Breiten,3 Höhen,2 Tiefen, viele Farben, Made in Germany (in Basic oder Premium Ausstattung mit 2 weiteren Einlegeböden) mit langen oder kurzen Griffen aus Metall, mit oder ohne Spiegel",
+        "price": "94.99",
+        "img": "https://i.otto.de/i/otto/2ebd3a04-82a1-5b33-808a-6f167b4247b6?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Wohnwand Scala, 3-tlg.",
+        "price": "269.99",
+        "img": "https://i.otto.de/i/otto/401c3be3-f567-5ba9-b92d-d12f66f6cc9f?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Ecksofa Josy L-Form, Breite 214 cm, mit 3 großen Rückenkissen, mit Bettfunktion und Bettkasten, Federkern",
+        "price": "569.99",
+        "img": "https://i.otto.de/i/otto/7f982e85-3a61-5f3b-a341-5f06a11dd807?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Kommode Sideboard Weiß Hochglanz mit LED Beleuchtung, Wohnzimmer",
+        "price": "139.99",
+        "img": "https://i.otto.de/i/otto/2a264812-9edc-4e90-8e3e-7a049fd615d3?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Schwerlastregal Lakota aus Stahl, Belastbar bis 875kg, Aufbau ohne Werkzeug, 5 Böden, Spar-Set 2-tlg., Witterungsbeständig, In- & Outdoor, höhenverstellbare MDF-Böden",
+        "price": "44.99",
+        "img": "https://i.otto.de/i/otto/be62c2f9-85d8-4561-8987-70fb77e7ced3?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Nachttisch (1-St), Nachttisch mit Steckdosenleiste, Beistelltisch, 2 Schubladen, modern",
+        "price": "39.99",
+        "img": "https://i.otto.de/i/otto/b4af78f5-aed2-4098-80c1-7b7f4bbf89f6?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Sofa IKON, Luxus und Eleganz in einem Sofa-Set.",
+        "price": "3.049.00",
+        "img": "https://i.otto.de/i/otto/4bf02a9c-74ef-59fa-aba3-96f67686fc6e?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Standregal NIZZA, Aktenregal, Würfelregal, Raumteiler mit 6 Fächern, Made in Germany",
+        "price": "59.90",
+        "img": "https://i.otto.de/i/otto/00ad32b6-dfab-46e0-8ccd-b4ab54c9ec88?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Garderoben-Set Finn, (Set, 3-St), mit Glasablage",
+        "price": "179.99",
+        "img": "https://i.otto.de/i/otto/dcab221d-0782-5a04-8ea0-ae2bddf5fb5c?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Kleiderschrank Drehtürenschrank Schrank Garderobe Wäscheschrank Schlafzimmer AVOLA (in 3 verschiedenen Ausstattungen BASIC/CLASSIC/PREMIUM) mit hochwertigen Stangengriffen in Schwarz aus Metall MADE IN GERMANY",
+        "price": "159.99",
+        "img": "https://i.otto.de/i/otto/a66e4f60-0130-5953-abff-878c530a7421?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Schuhschrank Boots (B/T/H 69/34/120 cm) Schuhkommode ca. 18 Paar Schuhe, Breite ca.69cm",
+        "price": "74.99",
+        "img": "https://i.otto.de/i/otto/f611a105-f75d-52c0-a6e4-b1146258a75f?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Mehrzweckschrank Küchenschrank Vorratschrank (mit 4/5 Ablagen, Traglast von 20 kg pro Ebene) mit transparenten Türen, staub- und fettbeständig, Breiterer Zähler",
+        "price": "69.99",
+        "img": "https://i.otto.de/i/otto/2b79937d-9f15-4958-938e-f249d8f6466b?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Vitrine Cambridge Höhe ca. 207 cm",
+        "price": "650.43",
+        "img": "https://i.otto.de/i/otto/e7926679-ed5d-5691-a227-fb1a896b00ce?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Polsterbett Doppelbett Bett Stauraumbett Jugendbett gepolsteres Bettgestell (Massivholz Untergestell mit Hydraulisch anhebbarer Bettstauraum, Samt Bezug Funktionsbett mIt Staufächer 140x200 cm Ohne Matratze), mit weichem Kopfteil Schaum-Polsterung Ohrenform Große Knopfnähte",
+        "price": "319.99",
+        "img": "https://i.otto.de/i/otto/9092831d-8b61-487f-811c-96a7ff17afbf?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Küchenzeile Helmvig, individuell anpassbar, gratis Küchenplanung mit Profis, (240 Breite), vormontiert, wahlw. mit E-Geräten, inkl. Lieferung",
+        "price": "2.800.83",
+        "img": "https://i.otto.de/i/otto/0a32be8c-550d-5702-a6da-ee7496eadc5e?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Küchenzeile Bornholm, individuell anpassbar, gratis Küchenplanung mit Profis, (240 Breite), vormontiert, wahlw. mit E-Geräten, inkl. Lieferung",
+        "price": "1.844.19",
+        "img": "https://i.otto.de/i/otto/d8a105b1-1933-5cd6-8731-8d7b7b2b8952?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Küchenzeile R-Line, Beton/Anthrazit, 300 cm mit Hochschrank, ohne Arbeitsplatte",
+        "price": "726.90",
+        "img": "https://i.otto.de/i/otto/3792aef5-cfc1-51ef-a1f2-ad45223d6e0a?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Küchenzeile KS-Florida mit 38mm starker Arbeitsplatte, Breite 280 cm, wahlweise mit E-Geräten, Soft-Close-Funktion",
+        "price": "679.99",
+        "img": "https://i.otto.de/i/otto/967c8288-8654-54bc-9bc7-c76622fec40b?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Küchenzeile KS-Lagos2, Breite 240 cm, wahlweise mit E-Geräten, mit 38mm starker Arbeitsplatte",
+        "price": "599.99",
+        "img": "https://i.otto.de/i/otto/d53343a9-f0bf-5ad8-8e39-58a54df5b888?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Küchenzeile Fano, individuell anpassbar, gratis Küchenplanung mit Profis, (330 Breite), vormontiert, wahlw. mit E-Geräten, inkl. Lieferung",
+        "price": "3.793.93",
+        "img": "https://i.otto.de/i/otto/501be513-7ffd-5a3d-b54d-0cfa984444f7?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Küchenzeile Florida, Breite 250 cm, wahlweise mit E-Geräten,Softclose für Türen/Schubkästen",
+        "price": "781.99",
+        "img": "https://i.otto.de/i/otto/6e0ab182-5bf3-5e83-b5b4-ac927f09b586?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Küchenzeile KS-Virginia, Breite 300 cm, mit E-Geräten",
+        "price": "2.289.99",
+        "img": "https://i.otto.de/i/otto/adf2a036-e0e6-57b4-8255-7a8f728eef84?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Küchenzeile OLVIT (Breite 240cm), Fronten 18mm, SOFTCLOSE, metallbox schublade 16mm",
+        "price": "599.00",
+        "img": "https://i.otto.de/i/otto/3184e838-8fdb-43f1-add3-bae7370d4004?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Küchenzeile OLVIT (Breite 300cm) Fronten 18mm, Softclose,SIND ERWEITERBAR!, Ohne E-Geräten",
+        "price": "799.99",
+        "img": "https://i.otto.de/i/otto/6add9fb6-39df-4880-95f3-17f83a027de6?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Küchenzeile Lund, wahlw. mit E-Geräten, in weiten Farben erhältlich, Breite 280x170 cm",
+        "price": "1.142.98",
+        "img": "https://i.otto.de/i/otto/80d2ecc8-027e-56bb-bd9d-8b8ef8296f1b?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Winkelküche Rick, Anthrazit/Goldkraft Eiche, 187 x 167 cm, AP Schwarz",
+        "price": "646.90",
+        "img": "https://i.otto.de/i/otto/d3780ead-a08c-55b5-8588-5cbb6cf2fa55?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Küchenzeile R-Line, Beton/Anthrazit, 350 cm ohne Arbeitsplatte",
+        "price": "1.037.90",
+        "img": "https://i.otto.de/i/otto/b4ac0691-63b7-50fe-9365-ec4a9acf656d?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Küche Safeli, Breite 210 cm, wahlweise mit oder ohne Hanseatic-E-Geräte",
+        "price": "799.99",
+        "img": "https://i.otto.de/i/otto/25cf23d9-0ced-5043-8c69-1a780dcc8886?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Küchenzeile K18-G400 - Langen - Luxuriöses Design mit perfekter Aufbewahrung, (Komplett Set), Premium - Modern - Exzellent.",
+        "price": "2.139.99",
+        "img": "https://i.otto.de/i/otto/5a239dec-b2b8-4af1-a798-e4b19e7fe507?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Herdumbauschrank KS-Toronto",
+        "price": "119.99",
+        "img": "https://i.otto.de/i/otto/a2c583e9-949a-590e-a197-b0050ec35fd3?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Winkelküche Rick, Weiß/Sonoma, 207 x 167 cm, AP Marmor",
+        "price": "676.90",
+        "img": "https://i.otto.de/i/otto/317a57e3-a24f-540b-be53-ecc134308e43?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Winkelküche K92-G350 - Aspen - Schlicht, funktional und elegant, (Komplett Set), Edles Design - Top Material - Hochwertig.",
+        "price": "2.599.99",
+        "img": "https://i.otto.de/i/otto/678f2b62-972e-4163-9b30-78aee2dd4d96?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Küchenzeile KS-Toronto, Breite 270 cm, mit E-Geräten",
+        "price": "1.269.99",
+        "img": "https://i.otto.de/i/otto/b1cb7492-9884-5b70-a233-be62f8927458?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Küchenzeile KS-Wien, Breite 440 cm, wahlweise mit E-Geräten und Induktion",
+        "price": "1.769.99",
+        "img": "https://i.otto.de/i/otto/a59c028b-32a8-59b0-a16b-5a57de219209?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Küchenzeile Elba, wahlweise mit Hanseatic E-Geräten, Breite 280 cm",
+        "price": "809.99",
+        "img": "https://i.otto.de/i/otto/9ab2fec9-5265-5e67-a53c-e9ef2c68825f?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Küchenzeile KS-Florida mit 38mm starker Arbeitsplatte, Breite 220 cm, wahlweise mit E-Geräten, Soft-Close-Funktion",
+        "price": "519.99",
+        "img": "https://i.otto.de/i/otto/ca491601-e4d8-5753-837b-35a96e649533?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Küchenzeile Helmvig, individuell anpassbar, gratis Küchenplanung mit Profis, (240 Breite), vormontiert, wahlw. mit E-Geräten, inkl. Lieferung",
+        "price": "2.800.83",
+        "img": "https://i.otto.de/i/otto/38816e2d-c6e7-5cfd-8fd4-269e6ebdd092?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Küchenzeile Sherwood, Breite 284 cm, mit Herdumbauschrank, ohne E-Geräte",
+        "price": "1.557.99",
+        "img": "https://i.otto.de/i/otto/c4b52063-9c96-599d-8dc3-fdee0c4d60bf?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Winkelküche Jazz, Stellbreite 220x175 cm, wahlweise mit E-Geräten",
+        "price": "655.99",
+        "img": "https://i.otto.de/i/otto/6a7a5af4-c73d-5951-8936-6c537029b3d0?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Küchenzeile Florida, Breite 370 cm, wahlweise mit E-Geräten,Softclose für Türen/Schubkästen",
+        "price": "1.239.99",
+        "img": "https://i.otto.de/i/otto/4a44f01b-848b-583d-bbed-569912b19f50?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Küchenzeile - Premium-Design für Ihre Küche, (Komplett Set), Premium - Modern - Exzellent.",
+        "price": "999.99",
+        "img": "https://i.otto.de/i/otto/05b8a2a7-cd48-43bb-90da-9bc37376d242?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Küche \"Dublin\", Ausrichtung wählbar, Schubkästen mit Soft-Close, vormontiert, wahlweise mit E-Geräten, mit Vollauszug, Breite 340 cm",
+        "price": "2.774.39",
+        "img": "https://i.otto.de/i/otto/48c6b857-803f-5125-a6fa-2db0c49c5674?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Küchenzeile KS-Georgia, mit 38mm starker Arbeitsplatte, Breite 250 cm, wahlweise mit E-Geräten und Kühlschrank",
+        "price": "499.99",
+        "img": "https://i.otto.de/i/otto/6eb53e6e-a63b-5b06-ab6b-c99f7a3e549f?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Pantryküche KS-Mali, Breite 150 cm, wahlweise mit E-Geräten",
+        "price": "499.99",
+        "img": "https://i.otto.de/i/otto/7f85c28a-bbe6-5565-9203-5d26b6bb8449?$responsive_ftfind_w800$"
+    },
+    {
+        "name": "Küchenzeile KS-Malfi, Breite 320cm, wahlweise mit E-Geräten, Arbeitsplatte 38mm Stärke",
+        "price": "775.75",
+        "img": "https://i.otto.de/i/otto/b5180c8a-0d34-5f83-80d0-42c31a1cc034?$responsive_ftfind_w800$"
     }
 ]
