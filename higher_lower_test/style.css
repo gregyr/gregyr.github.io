@@ -13,7 +13,7 @@ html, body {
     margin: 5vh;
     background-color: #ffffff;
     transition-duration: 300ms;
-    box-shadow: 0 0 2vw #d6d0c6;
+    box-shadow: 0 0 30px 15px #e8e6e0;
     border-radius: 5vh;
     border: none;
     display: flex;
@@ -24,12 +24,13 @@ html, body {
 
 .choice_box img {
     flex-shrink: 1;
-    min-width: 25vw;
-    min-height: 25vh;
+    min-width: 20vw;
+    min-height: 20vh;
     border-radius: 1vh;
     user-select: none;
     -moz-user-select: none;
     -webkit-user-select: none;
+    transition-duration: 300ms;
 }
 
 
