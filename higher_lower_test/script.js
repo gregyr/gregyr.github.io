@@ -5,7 +5,7 @@ async function loadProducts() {
     try {
         const response = await fetch('./articles.json');
         products = await response.json(); 
-        console.log("All products loaded:", products);
+        //console.log("All products loaded:", products);
 
         
     } catch (err) {
@@ -27,7 +27,7 @@ function startProducts() {
     const right_product = getRandomProduct();
     if (!right_product) return;
 
-    console.log("Chosen product:", right_product);
+    //console.log("Chosen product:", right_product);
 
     const right_img = document.getElementById("right_img");
     right_img.src = right_product.img;   
@@ -36,7 +36,7 @@ function startProducts() {
     const left_product = getRandomProduct();
     if (!left_product) return;
 
-    console.log("Chosen product:", left_product);
+    //console.log("Chosen product:", left_product);
     const left_img = document.getElementById("left_img");
     left_img.src = left_product.img;   
     left_img.alt = left_product.name;
@@ -52,7 +52,7 @@ function changeOneProduct(side) {
     const product = getRandomProduct();
     if (!product) return;
 
-    console.log("Chosen product:", product);
+    //console.log("Chosen product:", product);
 
     if(side == "left"){
         const left_img = document.getElementById("left_img");
