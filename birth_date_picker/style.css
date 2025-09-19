@@ -47,13 +47,13 @@ a {
 }
 
 .guess_wrapper{
+    padding-top: 10vh; /*offset reset margin top*/
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
 .gameloop-container{
-    padding-top: 10vh; /*offset reset margin top*/
     display: flex;
     flex-direction: row;
     align-items: center;
