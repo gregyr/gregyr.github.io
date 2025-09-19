@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<body>
+<title>Birthdate Picker</title>
+<link rel="icon" type="image/x-icon" href="icon.png">
+<link href='https://fonts.googleapis.com/css?family=Lexend' rel='stylesheet'>
+<link rel="stylesheet" href="style.css">
+
+<div class = "wrapper"> 
+    <div class = "gameloop-container">
+        <div class = "lower-dates">
+            <a class="placeholder-dates"></a>
+        </div>
+            <div class = "guess_wrapper">
+            
+            <a class="current_guess"> Current Guess </a>
+            <div>
+                <button class = "guess_button" onclick="guess_date('lower')"> Lower </button>
+                <button class = "guess_button" onclick="guess_date('higher')"> Higher </button>
+            </div>
+            <button class = "result-button" onclick="showResult()"> That's my age! </button>
+            <button class = "reset-button" onclick="location.reload()"> Reset </button>
+            
+        </div>
+        <div class = "higher-dates">
+            <a class="placeholder-dates"></a>
+        </div>
+    </div>
+</div>
+
+<script src="script.js">  </script>
+
+</body>
+</html>
