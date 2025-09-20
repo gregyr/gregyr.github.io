@@ -76,11 +76,11 @@ p {
   border-radius: .2vw;
   color: var(--text);
   font-size: 2vh;
-  transition-duration: 300ms;
+  transition-duration: 100ms;
 }
 
 .option_button:hover {
-  scale: 1.2;
+  scale: 1.1;
   box-shadow: inset;
   box-shadow: 1vh;
 }
@@ -119,12 +119,12 @@ p {
   outline: none;
   -webkit-transition: .2s;
   border-radius: 2vh;
-  transition: scale 300ms;
+  transition: scale 200ms;
   margin: 1vh;
 }
 
 .length_slider:hover {
-  scale: 1.05
+  scale: 1.00
 }
 
 .length_slider::-webkit-slider-thumb {

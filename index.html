@@ -6,18 +6,18 @@
 
 <div class = wrapper> 
     <div class = center_box>
-        <input type="text" value="" placeholder="Your Password" class="password" readonly>
+        <input type="text" value="" placeholder="Your Password" class="password" id ="password" disabled>
         <div class = options>
-            <button class = option_button> A-Z </button>
-            <button class = option_button> a-z </button>
-            <button class = option_button> 0-9 </button>
-            <button class = option_button> .!_ </button>
+            <button id="upper-case" class = "option_button" onclick="toggleOptions('upper-case')"> A-Z </button>
+            <button id="lower-case" class = "option_button" onclick="toggleOptions('lower-case')"> a-z </button>
+            <button id="numbers" class = "option_button" onclick="toggleOptions('numbers')"> 0-9 </button>
+            <button id="special-chars" class = "option_button" onclick="toggleOptions('special-chars')"> .!_ </button>
         </div>
         <div class="options">
             <input type="range" class = "length_slider" id = "slider">
         </div>
         <a class = "length" id = "length">Length : XXX</a>
-        <button class = generate>Generate</button>
+        <button class = generate onclick="generator()">Generate</button>
     </div>
 </div>
 
